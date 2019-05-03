@@ -4,13 +4,13 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "jounileino.com"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   "Appreciate the past, enjoy the present and implement the future!"
 
 email: jouni.leino@siili.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/author.jpeg"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -18,7 +18,7 @@ cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Jouni Leino'
 author: 'Jouni Leino'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author.jpeg"
 
 paginate:	5
 
@@ -53,6 +53,13 @@ social:
     desc:	Fork me on github
     share_url:
     share_title:
+    share_link:
+
+  - icon: linkedin
+    url:  https://linkedin.com/in/jounileino
+    desc: Connect with me on LinkedIn
+    share_url: 
+    share_title: 
     share_link:
 
 #  - icon:	google-plus
