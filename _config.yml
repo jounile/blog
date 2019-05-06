@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "jounileino.com"
+title: "blog.jounileino.com"
 description: > # this means to ignore newlines until "email:"
    "Appreciate the past, enjoy the present and implement the future!"
 
