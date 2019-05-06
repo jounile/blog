@@ -1,3 +1,5 @@
+#future: true
+
 # Build settings
 plugins:
   - jemoji

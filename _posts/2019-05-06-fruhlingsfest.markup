@@ -2,12 +2,14 @@
 layout: post
 title:  "Fruhlingsfest"
 date:   2019-05-06 21:34:25
-categories: jekyll update
+categories: mediator feature
 tags: featured
-image: /assets/article_images/noimage.JPG
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+published: true
 ---
+#Frühlingsfest
 
-Frühlingsfest in Stuttgart is a yearly beer festival with an amusement park and large beer tents. 
+Fruhlingsfest in Stuttgart is a yearly beer festival with an amusement park and large beer tents. 
 
 
 Check out their [website][fruhlingsfest] for more info. 
@@ -20,7 +22,7 @@ Check out their [website][fruhlingsfest] for more info.
    <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
   </div>
 </footer>
-{% endhighlight %}
+
 
 
 [fruhlingsfest]:      https://www.stuttgarter-fruehlingsfest.de
