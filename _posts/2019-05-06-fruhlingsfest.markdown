@@ -2,7 +2,7 @@
 layout: post
 title:  "Fruhlingsfest"
 date:   2019-05-06 21:34:25
-categories:  update
+categories: jekyll update
 tags: featured
 image: /assets/article_images/noimage.JPG
 ---

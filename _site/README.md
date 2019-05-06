@@ -1,4 +1,4 @@
-jounileino.com
+blog.jounileino.com
 ========
 
-A profile site built with Jekyll. 
+A blog built with Jekyll. 
