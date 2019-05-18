@@ -15,17 +15,17 @@ Amazon Sumerian ARKit starter app:
 
 https://github.com/aws-samples/amazon-sumerian-arkit-starter-app
 
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.45.08.png)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.47.50.png)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.52.26.png)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.52.36.png)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.52.51.png)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.53.38.png)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.05.56.jpg)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.16.47.jpg)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.17.49.jpg)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.26.51.jpg)
-![image](s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.35.15.jpg)
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.45.08.png">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.47.50.png">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.52.26.png">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.52.36.png">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.52.51.png">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 18-05-2019, 23.53.38.png">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.05.56.jpg">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.16.47.jpg">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.17.49.jpg">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.26.51.jpg">
+<img src="s3://jounileino.com-images/arkit-sumerian/Photo 19-05-2019, 0.35.15.jpg">
 
 
 https://docs.sumerian.amazonaws.com/tutorials/create/intermediate/augmented-reality-using-sumerian-arkit/
