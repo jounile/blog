@@ -9,7 +9,7 @@ published: true
 ---
 #AR with AWS Sumerian
 
-This weekend I decided to test Amazon Sumerian more and see if I could make something interesting with it. I came across this <a href"https://www.youtube.com/watch?v=QKeCDZWkExQ">recording</a> and just followed the guide.
+This weekend I decided to test Amazon Sumerian more and see if I could make something interesting with it. I came across this <a href="https://www.youtube.com/watch?v=QKeCDZWkExQ">recording</a> and just followed the guide.
 
 
 Apparently an easy way to get started with AR in Sumerian is to clone the <a href="https://github.com/aws-samples/amazon-sumerian-arkit-starter-app">Amazon Sumerian ARKit starter app</a>.
@@ -26,13 +26,13 @@ If the Xcode build fails with something saying "Trust" you should go to iPhone s
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.45.08.png" width="30%" height="30%">
 
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.47.50.png" width="30%" height="30%">
+
 When the AR app tries to launch on the iPhone you need to allow accessing device Camera. 
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.26.png" width="30%" height="30%">
 
 You should see the progress bar and your AR app name or this error message if something goes wrong.
-
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.47.50.png" width="30%" height="30%">
 
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.36.png" width="30%" height="30%">
