@@ -49,11 +49,13 @@ When the app is started it might take a second or two to load this box onto the 
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.16.47.jpg" width="" height="">
 
-Look around and you should see other content you placed on the scene in Sumerian.
+Look around through the iPhone camera and you should see other content you placed on the scene in Sumerian.
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.05.56.jpg" width="50%" height="50%">
 
-Your scene items get augmented into the scene you are currently. 
+Creepy no?
+
+Your scene items get augmented into the scene you are currently in. 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.17.49.jpg" width="" height="">
 
 For example here the lamps are placed in the ceiling.
