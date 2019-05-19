@@ -62,10 +62,9 @@ For example here the lamps are placed in the ceiling.
 
 
 
-Guide for adding trusted app on iphone:
+Here is ashort tutorial on how to add a trusted app on iphone:
 
-<a href="
-https://www.youtube.com/watch?v=7ejkoLgoPGk"></a>
+<a href="https://www.youtube.com/watch?v=7ejkoLgoPGk">guide</a>
 
 Also, see the Amazon Sumerian [website][sumerian] for more info. 
 
