@@ -17,9 +17,9 @@ Apparently an easy way to get started with AR in Sumerian is to clone the <a hre
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.35.15.jpg" width="" height="">
 
-Click Publish and copy the URL to your public hosted scene.
+In Amazon Sumerian you must click Publish and copy the generated URL to your public hosted scene.
 
-In XCode you need to change the sceneURL to the previously copied URL.
+In XCode ViewController.swift you need to change the sceneURL to the previously copied URL.
 Also append in the end of the URL /?arMode=true
 
 If the Xcode build fails with something saying "Trust" you should go to iPhone settings -> General -> Device Management -> Your developer account and click Trust (developer account).
@@ -32,19 +32,20 @@ When the AR app tries to launch on the iPhone you need to allow accessing device
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.26.png" width="30%" height="30%">
 
-You should see the progress bar and your AR app name or this error message if something goes wrong.
+You should see your iPhone app installed.
 
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.36.png" width="30%" height="30%">
 
- 
+When the app starts it shows a progress bar and your AR app name.
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.53.38.png" width="50%" height="50%">
 
+or possibly this error message if something goes wrong. Please check again your sceneURL in XCode.
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.51.png" width="50%" height="50%">
 
-When the app starts it might take a second or two to load this box onto the scene.
+When the app is started it might take a second or two to load this box onto the scene.
 
 <img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.16.47.jpg" width="" height="">
 
