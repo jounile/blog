@@ -7,13 +7,9 @@ tags: visual regression testing
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-Visual regression testing is a good way to detect small deviations between software releases. Screenshotting the visual output of an application along each release can be automated with a CI pipeline. the actual testing logic can be done in multiple ways.
+Visual regression testing is a good way to detect visual deviations between software releases. Screenshotting the visual output of an application along each release can be automated with a CI pipeline. The actual test logic can be done in multiple ways.
 
-I find Python programming language very convenient for detecting differences between images.
-
-PIL Python Image Library has functions for asserting stats but this gives you just a numeric score that can be translated to a yes/no answer based on a certain threshold.
-
-However, a test result can be much more. For example an image representing the visual deviation between the two screenshots.
+I find Python programming language very convenient for detecting differences between images. PIL Python Image Library has functions for asserting stats but this gives you just a numeric score that can be translated to a yes/no answer based on a certain threshold. However, a test result can be much more. For example an image representing the visual deviation between the two screenshots.
 
 Here is a little script to compare images visually.
 
