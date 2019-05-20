@@ -2,12 +2,12 @@
 layout: post
 title:  "Augmented reality app"
 date:   2019-05-06 21:34:25
-categories: mediator feature
+categories: feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 published: true
 ---
-#AR with AWS Sumerian
+AR with AWS Sumerian
 
 This weekend I decided to test Amazon Sumerian more and see if I could make something interesting with it. I came across this <a href="https://www.youtube.com/watch?v=QKeCDZWkExQ">recording</a> and just followed the guide.
 

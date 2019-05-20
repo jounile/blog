@@ -7,8 +7,6 @@ tags: visual regression testing
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-# Visual regression testing
-
 Visual regression testing is a good way to detect small deviations between software releases. Screenshotting the visual output of an application along each release can be automated with a CI pipeline. the actual testing logic can be done in multiple ways.
 
 I find Python programming language very convenient for detecting differences between images.
