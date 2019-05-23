@@ -6,7 +6,7 @@ plugins:
   - jekyll-paginate
 
 # Site settings
-title: "blog.jounileino.com"
+title: "jounileino.com"
 description: > # this means to ignore newlines until "email:"
    "Appreciate the past, enjoy the present and implement the future!"
 
