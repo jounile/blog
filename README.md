@@ -1,4 +1,4 @@
-blog.jounileino.com
+jounileino.com
 ========
 
 A blog built with Jekyll. 
