@@ -12,7 +12,7 @@ $ bundle exec jekyll build
 
 Run locally
 
-```python
+```bash
 $ bundle exec jekyll serve
 ```
 
