@@ -1,17 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Profile
+permalink: /profile/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+<h1>Jouni Leino</h1>
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p>
+	Business Development Engineer<br/>
+	Siili Solutions GmbH<br/>
+	Stuttgart, Germany<br/>
+	mobile +49 170 604 19 62<br/>
+	email: <a href="mailto:{{ site.email }}">{{ site.email }}</a><br/>
+</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This blog is created using [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
