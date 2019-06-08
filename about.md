@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-image: /assets/images/monaco.JPG
+image: /assets/images/square.JPG
 ---
 
 
