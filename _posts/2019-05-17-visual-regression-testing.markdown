@@ -2,8 +2,8 @@
 layout: post
 title:  "Visual regression testing"
 date:   2019-05-17 14:34:25
-categories: mediator feature
-tags: visual regression testing
+categories: article
+tags: testing
 image: /assets/article_images/2019-05-17-visual-regression-testing/biergarten.jpg
 ---
 Visual regression testing is a good way to detect visual deviations between software releases. Screenshotting the visual output of an application along each release can be automated with a CI pipeline. The actual test logic can be done in multiple ways.
