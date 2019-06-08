@@ -25,7 +25,7 @@ draw.rectangle((left,upper,right,lower), outline = "red")
 im1.save('difference.png')
 ```
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/visual-regression-testing/difference1.png" width="" height="">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-17-visual-regression-testing/difference1.png" width="" height="">
 
 This works even better when there is only a small alignment deviation in a certain area of the screen.
 
@@ -52,7 +52,7 @@ blended.save("blended.png")
 ```
 
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/visual-regression-testing/difference2.png" width="" height="">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-17-visual-regression-testing/difference2.png" width="" height="">
 
 And here is a third way. This shows the areas with differences better when there are multiple differences.
 
@@ -101,4 +101,4 @@ class ScreenAnalysis:
 ScreenAnalysis()
 ```
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/visual-regression-testing/difference3.png" width="" height="">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-17-visual-regression-testing/difference3.png" width="" height="">

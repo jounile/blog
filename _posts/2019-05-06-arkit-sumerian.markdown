@@ -15,7 +15,7 @@ This weekend I decided to test Amazon Sumerian more and see if I could make some
 Apparently an easy way to get started with AR in Sumerian is to clone the <a href="https://github.com/aws-samples/amazon-sumerian-arkit-starter-app">Amazon Sumerian ARKit starter app</a>.
 
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.35.15.jpg" width="" height="">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+19-05-2019%2C+0.35.15.jpg" width="" height="">
 
 In Amazon Sumerian you must click Publish and copy the generated URL that points to your public hosted scene.
 
@@ -28,45 +28,45 @@ private let sceneURL = URL(string: "https://eu-central-1.sumerian.aws/30080fd84e
 
 If the Xcode build fails with something saying "Trust" you should go to iPhone settings -> General -> Device Management -> Your developer account and click Trust (developer account).
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.45.08.png" width="30%" height="30%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+18-05-2019%2C+23.45.08.png" width="30%" height="30%">
 
 It should look like this. Apps from your apple developer account are listed here.
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.47.50.png" width="30%" height="30%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+18-05-2019%2C+23.47.50.png" width="30%" height="30%">
 
 When the AR app tries to launch on the iPhone you need to allow accessing device Camera. 
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.26.png" width="30%" height="30%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+18-05-2019%2C+23.52.26.png" width="30%" height="30%">
 
 Now you should see your iPhone app installed.
 
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.36.png" width="30%" height="30%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+18-05-2019%2C+23.52.36.png" width="30%" height="30%">
 
 When the app starts it shows a progress bar and your AR app name.
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.53.38.png" width="50%" height="50%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+18-05-2019%2C+23.53.38.png" width="50%" height="50%">
 
 or possibly this error message if something goes wrong. Please check your sceneURL in XCode again.
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+18-05-2019%2C+23.52.51.png" width="50%" height="50%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+18-05-2019%2C+23.52.51.png" width="50%" height="50%">
 
 When the app is started it might take a second or two to load this box onto the scene.
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.16.47.jpg" width="50%" height="50%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+19-05-2019%2C+0.16.47.jpg" width="50%" height="50%">
 
 Look around through the iPhone camera and you should see other content you placed on the scene in Sumerian.
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.05.56.jpg" width="50%" height="50%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+19-05-2019%2C+0.05.56.jpg" width="50%" height="50%">
 
 Creepy no?
 
 Your scene items get augmented into the scene you are currently in. 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.17.49.jpg" width="50%" height="50%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+19-05-2019%2C+0.17.49.jpg" width="50%" height="50%">
 
 For example here the lamps are placed in the ceiling.
 
-<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/arkit-sumerian/Photo+19-05-2019%2C+0.26.51.jpg" width="50%" height="50%">
+<img src="https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-05-06-arkit-sumerian/Photo+19-05-2019%2C+0.26.51.jpg" width="50%" height="50%">
 
 
 

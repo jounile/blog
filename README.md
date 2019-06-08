@@ -25,3 +25,4 @@ $ aws s3 sync _site s3://jounileino.com
 ```
 
 
+Article images are hosted in S3 bucket s3://jounileino.com-images/<article>/
