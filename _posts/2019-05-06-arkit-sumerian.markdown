@@ -4,7 +4,7 @@ title:  "Augmented reality app"
 date:   2019-05-06 21:34:25
 categories: feature
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image: /assets/article_images/2019-05-06-arkit-sumerian/italy.jpg
 published: true
 ---
 AR with AWS Sumerian
