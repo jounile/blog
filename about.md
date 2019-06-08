@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+image: /assets/images/monaco.JPG
 ---
 
 
@@ -14,6 +15,3 @@ permalink: /contact/
 	mobile +49 170 604 19 62<br/>
 	email: <a href="mailto:{{ site.email }}">{{ site.email }}</a><br/>
 </p>
-
-
-This blog is created using [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
