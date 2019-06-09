@@ -4,7 +4,6 @@ title:  "Augmented reality app"
 date:   2019-05-06 21:34:25
 categories: article
 tags: featured
-image: /assets/article_images/2019-05-06-arkit-sumerian/italy.jpg
 published: true
 ---
 AR with AWS Sumerian
