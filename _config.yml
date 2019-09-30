@@ -10,7 +10,7 @@ title: "jounileino.com"
 description: > # this means to ignore newlines until "email:"
    "Appreciate the past, enjoy the present and implement the future!"
 
-email: "jouni.leino@siili.com"
+email: "hello@jounileino.com"
 #blog logo
 logo: "/assets/images/jl-logo.png"
 float_logo: true # true, false (default)
