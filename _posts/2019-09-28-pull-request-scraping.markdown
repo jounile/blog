@@ -83,9 +83,8 @@ XPATH is a utility that allows specifying an DOM tree element with a special syn
     def parse_pull_requests(self):
         pull_requests_table = self.driver.find_element(By.XPATH,'//*[@id="pull-requests-content"]/div/div/table')
         pull_requests_titles = pull_requests_table.find_elements(By.XPATH,'//*[@class="pull-request-title"]')
-        pull_requests_times = pull_requests_table.find_elements(By.XPATH,'//*[@class="pr-author-number-and-timestamp"]')
-        pull_requests = {}
-        for (title,time) in zip(pull_requests_titles, pull_requests_times):
+
+        for title in pull_requests_titles:
             title = title.get_attribute('innerHTML')
 {% endhighlight %}
 
@@ -115,20 +114,30 @@ Calling the write method of the worksheet will insert each title in the spreadsh
 
 {% highlight python %}
     i = 0
-    for (title,time) in zip(pull_requests_titles, pull_requests_times):
+    for title in pull_requests_titles:
         # row, column, item
         worksheet.write(i, 0, title)
         i += 1
 {% endhighlight %}
 
-In the end you should close the workbook and call the quit() to stop the scraper.
+In the end you should close the workbook.
 
 {% highlight python %}
-    workbook.close() 
+    workbook.close()
+{% endhighlight %}
+
+Also implement the quit() method andd call it to stop the scraper.
+{% highlight python %}
+    def quit(self):
+        self.driver.close()
+{% endhighlight %}
+
+{% highlight python %}
     scraper.quit()
 {% endhighlight %}
 
-Save the script with name prscraper.py and launch with command:
+
+Finally save the script with name prscraper.py and launch with command:
 
 {% highlight shell %}
 python prscraper.py
