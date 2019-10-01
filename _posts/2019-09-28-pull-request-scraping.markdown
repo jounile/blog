@@ -27,6 +27,9 @@ It´s good to define the PullRequestScraper as a class and add methods that impl
 
 {% highlight python %}
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+import xlsxwriter
 
 class PullRequestScraper:
     def __init__(self):
@@ -89,7 +92,7 @@ XPATH is a utility that allows specifying an DOM tree element with a special syn
 Add the call for this method also.
 
 {% highlight python %}
-    scraper.parse_pull_requests(self)
+    scraper.parse_pull_requests()
 {% endhighlight %}
 
 OK so now we get a list of titles. 
@@ -105,13 +108,17 @@ Create an instance of a workbook and name it.
 Now we can plug in the worksheet to our parse method.
 
 {% highlight python %}
-    def parse_pull_requests(self, worksheet):
+    def parse_pull_requests(worksheet):
 {% endhighlight %}
 
-Calling the write method of the worksheet will insert each title in the spreadsheet while we loop through the list.
+Calling the write method of the worksheet will insert each title in the spreadsheet while we loop through the list. Provide the row ID as variable i.
 
 {% highlight python %}
-    worksheet.write(0, title)
+    i = 0
+    for (title,time) in zip(pull_requests_titles, pull_requests_times):
+        # row, column, item
+        worksheet.write(i, 0, title)
+        i += 1
 {% endhighlight %}
 
 In the end you should close the workbook and call the quit() to stop the scraper.
@@ -119,6 +126,12 @@ In the end you should close the workbook and call the quit() to stop the scraper
 {% highlight python %}
     workbook.close() 
     scraper.quit()
+{% endhighlight %}
+
+Save the script with name prscraper.py and launch with command:
+
+{% highlight shell %}
+python prscraper.py
 {% endhighlight %}
 
 
