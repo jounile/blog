@@ -12,7 +12,7 @@ Sometimes you may want to gather information from a webste and create a report o
 I had an assingment to parse Pull Requests from Bitbucket and write the information to Excel.
 For this we can utilize a couple of great Python libraries.
 
-<a href="[selenium]" target="_blank">Selenium</a> is a nifty browser automation library that can navigate to URLs, read information from the page, click links and much more.
+[Selenium][selenium] is a nifty browser automation library that can navigate to URLs, read information from the page, click links and much more.
 
 Install the libs we will be using.
 
@@ -96,7 +96,7 @@ Add the call for this method also.
 
 OK so now we get a list of titles. 
 The last part is to write it to Excel spreadsheet.
-There are multiple libraries for this but let´s use <a href="[xlsxwriter]" target="_blank">xlsxwriter</a>.
+There are multiple libraries for this but let´s use [XLSXWriter][xlsxwriter].
 Create an instance of a workbook and name it.
 
 {% highlight python %}
@@ -137,12 +137,14 @@ Also implement the quit() method andd call it to stop the scraper.
 {% endhighlight %}
 
 
-Finally save the script with name prscraper.py and launch with command:
+Finally save the script with name PullRequestScraper.py and launch with command:
 
 {% highlight shell %}
-python prscraper.py
+python PullRequestScraper.py
 {% endhighlight %}
 
+Find the full code on this [Gist][gist] 
 
 [selenium]:      https://www.seleniumhq.org/
 [xlsxwriter]:      https://pypi.org/project/XlsxWriter/
+[gist]:      https://gist.github.com/jounile/d146fb7836cc92fe20b1a3f4deaeadaa
