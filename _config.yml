@@ -22,7 +22,7 @@ name: 'Jouni Leino'
 author: 'Jouni Leino'
 author_image: "/assets/images/author.jpeg"
 
-paginate:	5
+paginate:	3
 
 url: "https://jounileino.com" # the base hostname & protocol for your site
 baseurl: ""

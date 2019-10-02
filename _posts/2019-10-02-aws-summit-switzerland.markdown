@@ -1,15 +1,11 @@
 ---
 layout: post
 title: "AWS Summit Switzerland"
-date: 2019-10-02 16:00:00
+date: 2019-10-02 10:00:00
 categories: 
-tags: 
+tags: aws summit
 published: true
 ---
-<!--image: https://s3.eu-central-1.amazonaws.com/jounileino.com-images/2019-10-03-aws-summit-switzerland/heading.png-->
-
-https://aws.amazon.com/events/summits/switzerland/
-
 
 <h3>Keynote</h3>
 
