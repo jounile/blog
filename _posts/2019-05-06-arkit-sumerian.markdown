@@ -2,7 +2,7 @@
 layout: post
 title:  "Augmented reality app"
 date:   2019-05-06 21:34:25
-categories: article
+categories:
 tags: AR
 published: true
 ---

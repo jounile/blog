@@ -2,7 +2,7 @@
 layout: post
 title:  "IAA International Motor Show"
 date:   2019-09-22 13:00:00
-categories: iaa auto
+categories:
 tags: iaa 
 published: true
 ---
