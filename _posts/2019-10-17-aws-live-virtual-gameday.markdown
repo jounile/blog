@@ -2,7 +2,7 @@
 layout: post
 title:  "AWS Gameday experience"
 date:   2019-10-17 00:30:00
-categories: aws cloud
+categories:
 tags: aws gameday
 image: 
 published: true
