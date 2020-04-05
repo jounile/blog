@@ -57,7 +57,7 @@ Doing this I learned a lot about developing web applications with Python and hos
 I will explain more about the Azure hosting and monitoring in my next blog post.
 
 The source code can be found in my [Github][github].
-Pull Requests are welcome if you fell like contributing.
+Pull Requests are welcome if you feel like contributing.
 
 [nollanet]:   https://www.nolla.net
 [github]:   https://github.com/jounile/nollanet
