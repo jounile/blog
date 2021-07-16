@@ -27,7 +27,7 @@ paginate:	3
 url: "https://jounileino.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@awsfanboy'
+twitter_handle: '@humandebugger'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -37,7 +37,7 @@ google_analytics: UA-149164081-1
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/awsfanboy
+    url:	https://twitter.com/humandebugger
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
